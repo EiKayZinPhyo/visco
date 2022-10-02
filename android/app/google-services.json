@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431272703845",
+    "project_id": "visco-156c5",
+    "storage_bucket": "visco-156c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431272703845:android:5a7a6c9172bbafa0b1138c",
+        "android_client_info": {
+          "package_name": "com.example.visco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431272703845-fkm2p02c48gpm06lflt573jk0n4ii1js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07zDZLUN-9wjBv2g6iGwfQ77YqzznzMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431272703845-fkm2p02c48gpm06lflt573jk0n4ii1js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

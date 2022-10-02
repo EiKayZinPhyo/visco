@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>431272703845-1qpfe1pbb6s8a7ap8ikcjg3jrhlqnmml.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.431272703845-1qpfe1pbb6s8a7ap8ikcjg3jrhlqnmml</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuB4XXmX3zW01FtYTXGItnvaMu3GicMx8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431272703845</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.visco</string>
+	<key>PROJECT_ID</key>
+	<string>visco-156c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>visco-156c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431272703845:ios:2a54b5a1e57d3c63b1138c</string>
+</dict>
+</plist>
