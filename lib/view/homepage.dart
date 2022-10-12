@@ -124,7 +124,7 @@ class _HomePageState extends State<HomePage> {
                                         width: 20,
                                       ),
                                       const LikeButton(
-                                        size: 20,
+                                        size: 10,
                                         likeCount: 121,
                                       )
                                     ],
